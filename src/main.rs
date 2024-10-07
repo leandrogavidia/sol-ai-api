@@ -1,5 +1,4 @@
 use axum::{ response::IntoResponse, routing::post, Json, Router};
-use chat_gpt_lib_rs::{ ChatGPTClient, ChatInput, Message, Model };
 use std::fs;
 use std::env;
 
