@@ -1,20 +1,33 @@
 # Solana Allstars
 
-Solana Allstars es un programa educativo de alcance global que tiene como objetivo enseñar y dar a conocer la tecnología blockchain de Solana, así como los diversos proyectos que forman parte de su ecosistema. Este programa es impulsado por la empresa **Step Finance** y cuenta con el patrocinio de múltiples proyectos que están construyendo sobre la plataforma de Solana.
+**Solana Allstars** is a global educational program aimed at teaching and promoting Solana blockchain technology, as well as the various projects that are part of its ecosystem. This program is driven by [**Step Finance**](https://www.step.finance/) and sponsored by multiple projects that are building on the Solana platform.
 
-Actualmente, Solana Allstars está presente en cuatro países:
+Currently, Solana Allstars is present in four countries:
 
-1. Turquía
-2. Nigeria
-3. Venezuela
-4. Argentina
+- **Turkey**
+- **Nigeria**
+- **Venezuela**
+- **Argentina**
 
-El programa se enfoca en recorrer cada país, ofreciendo charlas gratuitas y continuas en distintas ciudades. Cada vez que se lanza una nueva ciudad, se organiza una charla gratuita cada 15 a 20 días, brindando así acceso constante a información actualizada y relevante sobre el ecosistema de Solana.
+The program focuses on touring each country, offering free and continuous talks in different cities. Every time a new city is launched, a free talk is organized every 15 to 20 days, thus providing constant access to up-to-date and relevant information about the Solana ecosystem.
 
-Los temas abordados en estas charlas son muy variados e incluyen áreas como Gaming, Finanzas Descentralizadas (DeFi), Programación y otros aspectos importantes relacionados con Solana. Esto permite que los participantes adquieran un conocimiento integral sobre las oportunidades y herramientas que ofrece esta blockchain.
+The topics covered in these talks are varied and include areas such as Gaming, Decentralized Finance (DeFi), Programming, and other important aspects related to Solana. This allows participants to acquire a comprehensive understanding of the opportunities and tools offered by this blockchain.
 
-Además, en cada país se abren oportunidades para la colaboración, creando posiciones para embajadores, colaboradores, Regional Managers y Country Managers. Esto no solo fomenta el crecimiento del programa, sino que también permite a los participantes involucrarse activamente en la promoción de la educación y la adopción de la tecnología blockchain en sus comunidades.
+Additionally, opportunities for collaboration are opened in each country, creating positions for ambassadors, collaborators, Regional Managers, and Country Managers. This not only fosters the growth of the program but also allows participants to actively engage in promoting education and the adoption of blockchain technology in their communities.
 
-Solana Allstars representa una iniciativa valiosa para empoderar a las personas con conocimientos sobre blockchain, contribuyendo así al desarrollo de un entorno más informado y participativo en el espacio cripto. A medida que el programa se expande, se espera que más ciudades se sumen a esta misión, fomentando la conexión y el aprendizaje en un ecosistema en constante evolución.
+Solana Allstars represents a valuable initiative to empower people with blockchain knowledge, thus contributing to the development of a more informed and participatory environment in the crypto space. As the program expands, it is expected that more cities will join this mission, fostering connection and learning in a constantly evolving ecosystem.
 
-[Cuenta oficial](https://x.com/solanaallstars)
+- [Solana Allstars - X account](https://x.com/solanaallstars)
+
+- [Solana Allstars **Venezuela** - X account](https://x.com/allstarsVEN)
+- [Solana Allstars **Venezuela** - Instagram account](https://www.instagram.com/allstarsven/)
+
+- [Solana Allstars **LATAM** - X account](https://x.com/allstarslatam)
+- [Solana Allstars **LATAM** - Instagram account](https://www.instagram.com/allstarslatam/)
+
+- [Solana Allstars **Nigeria** - X account](https://x.com/AllstarsNG)
+- [Solana Allstars **Nigeria** - Instagram account](https://www.instagram.com/allstarsng/)
+
+
+- [Solana Allstars **Türkiye** - X account](https://x.com/allstarsTR)
+- [Solana Allstars **Türkiye** - Instagram account](https://www.instagram.com/solanaallstarsturkey/)

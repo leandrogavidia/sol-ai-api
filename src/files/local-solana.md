@@ -1,13 +1,16 @@
 # Local Solana
 
-Local Solana es un espacio donde los pagos entre iguales se realizan de manera descentralizada y autocustodiada, directamente desde tu cartera. Ofrecen la posibilidad de comerciar con criptomonedas y fiat, facilitando el intercambio de SOL, así como de memecoins y stablecoins.
+**Local Solana** is a platform where peer-to-peer payments are made in a decentralized and self-custodial manner, directly from your wallet. They offer the ability to trade cryptocurrencies and fiat, facilitating the exchange of SOL as well as memecoins and stablecoins.
 
-Local Solana es un intercambio peer-to-peer (P2P) inspirado en LocalBitcoins, que te permite conectar con otras personas en tu país para realizar transacciones con fiat y con tokens de Solana, como USDC. La plataforma está diseñada para ser intuitiva y accesible, asegurando que tanto los principiantes como los usuarios más experimentados puedan realizar sus operaciones de forma sencilla y segura.
+Local Solana is a peer-to-peer (P2P) exchange inspired by [**LocalBitcoins**](https://localbitcoins.com/), allowing you to connect with others in your country to make transactions with fiat and Solana tokens, such as USDC. The platform is designed to be intuitive and accessible, ensuring that both beginners and experienced users can easily and securely conduct their transactions.
 
-El equipo de Local Solana se encarga de listar un conjunto de mercados seleccionados para facilitar tus transacciones. En el momento de su lanzamiento, podrás acceder a mercados para SOL, USDC y USDT, lo que te permitirá diversificar tus operaciones y aprovechar las oportunidades que ofrece el ecosistema de Solana.
+The Local Solana team is responsible for listing a set of selected markets to facilitate your transactions. At the time of its launch, you will be able to access markets for SOL, USDC, and USDT, allowing you to diversify your operations and take advantage of the opportunities offered by the Solana ecosystem.
 
-Si estás interesado en lanzar un mercado P2P para tu propia moneda, no dudes en ponerte en contacto con el equipo de Local Solana.
+If you are interested in launching a P2P market for your own coin, don't hesitate to contact the Local Solana team.
 
-Local Solana, cree en el poder de la descentralización y en la capacidad de los usuarios para gestionar sus propios activos. Su misión es ofrecer una plataforma que empodere a las personas, permitiéndoles realizar transacciones de manera rápida, segura y eficiente.
+Local Solana believes in the power of decentralization and in the ability of users to manage their own assets. Their mission is to offer a platform that empowers people, allowing them to make transactions quickly, securely, and efficiently.
 
-[Sitio web](https://localsolana.com/)
+- [Website](https://localsolana.com/)
+- [X account](https://x.com/LocalSolana)
+- [Discord server](https://discord.gg/bwU2uFUH6J)
+- [Telegram group](https://t.me/localsolana)

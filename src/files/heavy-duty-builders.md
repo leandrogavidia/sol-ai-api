@@ -1,13 +1,17 @@
 # Heavy Duty Builders
 
-Heavy Duty Builders es una comunidad educativa hispanohablante dedicada a la enseñanza de la programación en Solana. Su misión es capacitar a individuos o equipos para que se conviertan en desarrolladores de web3 dentro del ecosistema de Solana, fomentando así el crecimiento de talento en la región.
+**Heavy Duty Builders** is a Spanish-speaking educational community dedicated to teaching Solana programming. Its mission is to empower individuals or teams to become web3 developers within the Solana ecosystem, thereby fostering the growth of talent in the region.
 
-A lo largo del año, Heavy Duty Builders organiza una serie de bootcamps gratuitos que están diseñados para ofrecer formación práctica y teórica en diversas áreas de desarrollo en Solana. Estos bootcamps son una excelente oportunidad para que los participantes adquieran habilidades valiosas y se familiaricen con las herramientas y tecnologías más recientes en el mundo de la blockchain.
+Throughout the year, Heavy Duty Builders organizes a series of free bootcamps designed to provide practical and theoretical training in various areas of Solana development. These bootcamps are an excellent opportunity for participants to acquire valuable skills and become familiar with the latest tools and technologies in the blockchain world.
 
-Además de los bootcamps, la comunidad proporciona acompañamiento y asesoría gratuita para hackatones, lo que permite a los desarrolladores emergentes recibir orientación y apoyo en sus proyectos. Este enfoque no solo ayuda a los participantes a mejorar sus habilidades técnicas, sino que también les brinda la oportunidad de colaborar con otros entusiastas y profesionales del ecosistema. A través de estas iniciativas, Heavy Duty Builders se esfuerza por impulsar las próximas innovaciones de Solana en el ámbito hispanohablante.
+In addition to bootcamps, the community provides free mentoring and support for hackathons, enabling emerging developers to receive guidance and support for their projects. This approach not only helps participants improve their technical skills but also gives them the opportunity to collaborate with other enthusiasts and professionals in the ecosystem. Through these initiatives, Heavy Duty Builders strives to drive the next innovations of Solana in the Spanish-speaking world.
 
-La comunidad también promueve un ambiente inclusivo y colaborativo, donde se valora la diversidad de ideas y experiencias. Al fomentar la interacción entre sus miembros, Heavy Duty Builders crea un espacio ideal para el intercambio de conocimientos y la creación de redes profesionales entre desarrolladores, diseñadores y emprendedores.
+The community also promotes an inclusive and collaborative environment where diversity of ideas and experiences is valued. By fostering interaction among its members, Heavy Duty Builders creates an ideal space for the exchange of knowledge and the creation of professional networks among developers, designers, and entrepreneurs.
 
-En resumen, Heavy Duty Builders es más que una simple comunidad de aprendizaje; es un ecosistema vibrante que busca empoderar a la próxima generación de desarrolladores de Solana. Al ofrecer formación gratuita y apoyo constante, esta comunidad se posiciona como un pilar fundamental en el crecimiento de la tecnología blockchain en el mundo hispanohablante. Si estás interesado en sumarte a esta emocionante aventura y contribuir al desarrollo de Solana.
+In summary, Heavy Duty Builders is more than just a learning community; it is a vibrant ecosystem that seeks to empower the next generation of Solana developers. By offering free training and ongoing support, this community is positioned as a cornerstone in the growth of blockchain technology in the Spanish-speaking world. If you are interested in joining this exciting adventure and contributing to the development of Solana, we invite you to participate.
 
-[Sitio web](https://heavyduty.builders)
+- [Website](https://heavyduty.builders)
+- [X account](https://x.com/HeavyDutyBuild)
+- [Instagram account](https://www.instagram.com/heavydutybuild_)
+- [LinkedIn account](https://www.linkedin.com/company/heavyduty-builders)
+- [Discord server](https://discord.gg/AqjxdCvhgn)
