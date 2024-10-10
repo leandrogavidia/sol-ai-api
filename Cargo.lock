@@ -465,6 +465,19 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 
 [[package]]
+name = "chromadb"
+version = "0.5.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9529b9b0d36805be7174ef96022e9140e1aa1a72ee744347a4dddd430f95a662"
+dependencies = [
+ "anyhow",
+ "base64 0.22.1",
+ "minreq",
+ "serde",
+ "serde_json",
+]
+
+[[package]]
 name = "chrono"
 version = "0.4.38"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1579,6 +1592,21 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "e2d80299ef12ff69b16a84bb182e3b9df68b5a91574d3d4fa6e41b65deec4df1"
 dependencies = [
  "adler2",
+]
+
+[[package]]
+name = "minreq"
+version = "2.12.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "763d142cdff44aaadd9268bebddb156ef6c65a0e13486bb81673cf2d8739f9b0"
+dependencies = [
+ "log",
+ "once_cell",
+ "rustls 0.21.12",
+ "rustls-webpki 0.101.7",
+ "serde",
+ "serde_json",
+ "webpki-roots",
 ]
 
 [[package]]
@@ -2799,9 +2827,11 @@ name = "sol-ai-api"
 version = "0.1.0"
 dependencies = [
  "axum 0.7.7",
+ "chromadb",
  "chrono",
  "dotenv",
  "markdown-parser",
+ "regex",
  "reqwest 0.12.8",
  "serde",
  "serde_json",

@@ -2,9 +2,11 @@ use axum::{response::IntoResponse, routing::post, Json, Router};
 
 use collections::api::{Request, Response};
 use docs::read_markdown;
+use process::process_files;
 
 mod collections;
 mod docs;
+mod process;
 
 #[shuttle_runtime::main]
 async fn main() -> shuttle_axum::ShuttleAxum {
@@ -14,6 +16,9 @@ async fn main() -> shuttle_axum::ShuttleAxum {
 }
 
 async fn chat(Json(_payload): Json<Request>) -> impl IntoResponse {
+
+    let _ = process_files("/src/files");
+
     let ore_content: String = read_markdown("/src/files/ore.md");
     let solana_allstars_content: String = read_markdown("/src/files/solana-allstars.md");
     let la_familia_content: String = read_markdown("/src/files/la-familia.md");

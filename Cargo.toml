@@ -17,3 +17,5 @@ uuid = { version = "1.10.0", features = ["serde", "v4"] }
 shuttle-axum = "0.48.0"
 shuttle-runtime = "0.48.0"
 markdown-parser = "0.1.2"
+chromadb = "0.5.0"
+regex = "1.11.0"
