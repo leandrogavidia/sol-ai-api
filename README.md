@@ -2,7 +2,7 @@
   <h1>Sol AI API - Solana Copa America</h1>
 </div>
 
-Esta API,desarrollada en Rust, proporciona documentación especializada en Solana para modelos de inteligencia artificial. Gracias a una documentación estructurada y de código abierto, esta API actúa como una bóveda de valor, almacenando información actualizada y veraz sobre el ecosistema de Solana.
+This Rust-developed API provides specialized Solana documentation for artificial intelligence models. Thanks to its structured and open-source documentation, this API serves as a valuable repository, storing up-to-date and accurate information about the Solana ecosystem.
 
 ## Getting Started
 
