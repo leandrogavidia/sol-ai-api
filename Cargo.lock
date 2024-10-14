@@ -2826,6 +2826,7 @@ dependencies = [
 name = "sol-ai-api"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "axum 0.7.7",
  "chromadb",
  "chrono",
